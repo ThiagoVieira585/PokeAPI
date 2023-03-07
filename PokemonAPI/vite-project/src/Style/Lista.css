@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Nunito:wght@200&display=swap');
+.nome{
+  font-family: "Manrope";
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.status{
+  font-family: "Manrope";
+  padding: 10px;
+  text-transform: uppercase;
+}
+.foto{
+  
+  max-width: 200px;
+  max-height: 200px;
+}
+.cardOUT{
+  
+  position: absolute;
+    top: 50%;right: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  font-family: Manrope;
+  
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 13px 0px rgba(50, 50, 50, 0.080);
+  background-color:  #6a81bb;
+}
+

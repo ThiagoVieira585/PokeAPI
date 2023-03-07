@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+.Geral{
+    text-align: center;
+    
+    font-family: "Nunito";
+    color: white;
+    font-size: 20px;
+   justify-content: center;
+    
+}
+.oi{
+   
+    height: 110px;
+    padding: 20px;
+    font-size: 30px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
